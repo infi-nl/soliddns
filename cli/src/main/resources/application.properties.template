@@ -1,0 +1,7 @@
+cloudflarezoneid=1
+cloudflareapikey=1
+domain=yourdomain.com
+csvprovidername=InternedServices
+dnsprovidername=Cloudflare
+csvpath=some.csv
+usermail=user@email.com

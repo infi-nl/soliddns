@@ -1,0 +1,3 @@
+rootProject.name = 'nl.infi.idiot'
+include ":core", ":cli", ":api", ":exporter", ":importer", ":rest"
+
