@@ -25,7 +25,7 @@ A step by step series of examples that tell you have to get a development env ru
 Clone repository into your folder of choice
 
 ```
-git clone git@github.com:matthijsl/idiot.git folder
+git clone https://github.com/infi-nl/idiot.git folder
 
 ```
 
