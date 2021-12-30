@@ -20,7 +20,7 @@ ext.junit4Version        = '4.12'
 ext.junitVintageVersion  = '4.12.3'
 ext.junitPlatformVersion = '1.0.3'
 ext.junitJupiterVersion  = '5.0.3'
-ext.log4jVersion         = '2.9.0'
+ext.log4jVersion         = '2.17.0'
 
 
 repositories {
