@@ -1,4 +1,4 @@
-# Infi Dns Interactive Orchestration Tool
+# SOLID DNS
 
 Started as a simple cli application and accompanying api for moving Dns records between two DNS providers.
 (InternedServices and Cloudflare). Someday the interactive orchestration tool for managing DNS records across several more.
@@ -25,7 +25,7 @@ A step by step series of examples that tell you have to get a development env ru
 Clone repository into your folder of choice
 
 ```
-git clone https://github.com/infi-nl/idiot.git folder
+git clone https://github.com/infi-nl/soliddns.git folder
 
 ```
 
@@ -73,7 +73,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 * **Matthijs Liethof** - *Initial work* - [MatthijsL](https://github.com/matthijsl)
 
-See also the list of [contributors](https://github.com/matthijsl/idiot/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/infi-nl/soliddns/contributors) who participated in this project.
 
 ## License
 
