@@ -1,5 +1,7 @@
 # SOLID DNS
 
+> ⚠️ This project is archived and won't receive any further updates of any kind. We leave it public in case someone might still have a use for the archived code.
+
 Started as a simple cli application and accompanying api for moving Dns records between two DNS providers.
 (InternedServices and Cloudflare). Someday the interactive orchestration tool for managing DNS records across several more.
 
